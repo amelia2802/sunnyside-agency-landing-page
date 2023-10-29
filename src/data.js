@@ -1,4 +1,4 @@
-export default[
+const data =[
     {
         id:0,
         clientName:"Emily R.",
@@ -21,3 +21,5 @@ export default[
         pic:"image-jennie.jpg",
     },
 ]
+
+export default data;
